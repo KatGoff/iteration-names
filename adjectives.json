@@ -1,0 +1,269 @@
+{
+  "A": [
+    "Abiding",
+    "Adequate",
+    "Aesthetic",
+    "Affordable",
+    "Ageless",
+    "Austere",
+    "Authentic",
+    "Attentive",
+    "Articulate",
+    "Angelic",
+    "Adolescent"
+  ],
+  "B": [
+    "Bashful",
+    "Bankrupt",
+    "Beaming",
+    "Belligerent",
+    "Burly",
+    "Busy",
+    "Brash",
+    "Brilliant"
+  ],
+  "C": [
+    "Calm",
+    "Captivating",
+    "Casual",
+    "Charming",
+    "Clean",
+    "Cogent",
+    "Crazy",
+    "Cute"
+  ],
+  "D": [
+    "Dainty",
+    "Damaged",
+    "Dangerous",
+    "Dapper",
+    "Dazzling",
+    "Dutiful",
+    "Dramatic"
+  ],
+  "E": [
+    "Easy-going",
+    "Eccentric",
+    "Effervescent",
+    "Enraged",
+    "Equable",
+    "Evanescent",
+    "Exemplary",
+    "Efficacious"
+  ],
+  "F": [
+    "Fabulous",
+    "Fancy",
+    "Fantastic",
+    "Fidgety",
+    "Florid",
+    "Forgiving",
+    "Fussy",
+    "Frugal"
+  ],
+  "G": [
+    "Gainful",
+    "Gallant",
+    "Ghostly",
+    "Glad",
+    "Gabby",
+    "Goofy",
+    "Groovy",
+    "Growing",
+    "Gutsy"
+  ],
+  "H": [
+    "Hairless",
+    "Handsome",
+    "Headstrong",
+    "Hesitant",
+    "Hilarious",
+    "Hungry",
+    "Humane",
+    "Humourless"
+  ],
+  "I": [
+    "Idle",
+    "Illogical",
+    "Improbable",
+    "Impulsive",
+    "Inclined",
+    "Indecisive",
+    "Introverted",
+    "Intended",
+    "Impervious"
+  ],
+  "J": [
+    "Jarring",
+    "Jeering",
+    "Jinxed",
+    "Joyous",
+    "Jolly",
+    "Judicious",
+    "Jovial",
+    "Jesting"
+  ],
+  "K": [
+    "Knockout",
+    "Kindly",
+    "Keen",
+    "Kind",
+    "Knowledgeable",
+    "Kooky",
+    "Kingly"
+  ],
+  "L": [
+    "Lanky",
+    "Lesser",
+    "Loud",
+    "Lucky",
+    "Ladylike",
+    "Livid",
+    "Laughing",
+    "Loyal",
+    "Lonely"
+  ],
+  "M": [
+    "Maniacal",
+    "Mean",
+    "Magical",
+    "Mysterious",
+    "Musing",
+    "Mesmerised",
+    "Meticulous",
+    "Moody",
+    "Marvellous",
+    "Maternal",
+    "Mediocre"
+  ],
+  "N": [
+    "Native",
+    "Needy",
+    "Nice",
+    "Noble",
+    "Naive",
+    "Naughty",
+    "Nefarious",
+    "Nonchalant",
+    "Nutty",
+    "Nervous"
+  ],
+  "O": [
+    "Obedient",
+    "Obscure",
+    "Odd",
+    "Odorous",
+    "Ominous",
+    "Opulent",
+    "Obedient",
+    "Obnoxious",
+    "Offensive"
+  ],
+  "P": [
+    "Palatable",
+    "Peaceful",
+    "Pleasing",
+    "Poetic",
+    "Popular",
+    "Personable",
+    "Pesky",
+    "Philosophical",
+    "Pessimistic",
+    "Photogenic"
+  ],
+  "Q": [
+    "Quality",
+    "Quelled",
+    "Quirky",
+    "Quaint",
+    "Quarrelsome",
+    "Quiet",
+    "Queer",
+    "Quizzical"
+  ],
+  "R": [
+    "Radiant",
+    "Rich",
+    "Rude",
+    "Ruthless",
+    "Riled",
+    "Respectable",
+    "Resourceful",
+    "Righteous",
+    "Romantic",
+    "Revered",
+    "Rational"
+  ],
+  "S": [
+    "Sickly",
+    "Skewered",
+    "Smarmy",
+    "Sadistic",
+    "Savage",
+    "Seductive",
+    "Sleepy",
+    "Sanguine",
+    "Scornful"
+  ],
+  "T": [
+    "Tactical",
+    "Tense",
+    "Thoughtful",
+    "Tiresome",
+    "Tranquil",
+    "Tactless",
+    "Thrifty",
+    "Thickset",
+    "Tolerant"
+  ],
+  "U": [
+    "Ubiquitous",
+    "Umbrageous",
+    "Unassuming",
+    "Upbeat",
+    "Useless",
+    "Underage",
+    "Uncooperative"
+  ],
+  "V": [
+    "Virtual",
+    "Vexing",
+    "Vicarious",
+    "Vengeful",
+    "Vindictive",
+    "Vain",
+    "Versatile",
+    "Vile",
+    "Vicious",
+    "Vulnerable"
+  ],
+  "W": [
+    "Wacky",
+    "Wild",
+    "Worldly",
+    "Weary",
+    "Worrisome",
+    "Whiny",
+    "Warmhearted"
+  ],
+  "X": [
+    "Xeric",
+    "Xenogeneic",
+    "Xenial",
+    "Xerothermic",
+    "Xylotomous"
+  ],
+  "Y": [
+    "Yawning",
+    "Yielding",
+    "Yucky",
+    "Youthful",
+    "Yellow"
+  ],
+  "Z": [
+    "Zany",
+    "Zealous",
+    "Zestful",
+    "Zippy"
+  ]
+}

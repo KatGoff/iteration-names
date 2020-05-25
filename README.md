@@ -4,8 +4,10 @@
 
 #### How does it work?
 
+This Cloud Function is deployed to a GCP project. See "How do I deploy the Cloud Function?" below for instructions.
+
 Use the following curl command
-`curl https://us-central1-greensync-playground-dev.cloudfunctions.net/GetIterationName`
+`curl https://{zone-gcp-project}.cloudfunctions.net/GetIterationName`
 with the suffix
 `?letter=`
 followed by a capital letter to generate an iteration name.
@@ -17,10 +19,10 @@ The test checks that no unexpected errors occurred, and that the output begins w
 
 #### Where does the Cloud Function live?
 
-The Cloud Function is inside the GreenSync Dev Playground project on Google Cloud Platform.
+The Cloud Function is inside a project on Google Cloud Platform.
 
 The curl command is invoking the `GetIterationName` function that was deployed there.
-This GitHub repository allows us to make changes locally and redeploy if required.
+This GitHub repository allows me to make changes locally and redeploy if required.
 
 #### How do I deploy the Cloud Function?
 
